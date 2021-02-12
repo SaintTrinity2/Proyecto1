@@ -1,0 +1,61 @@
+body
+{
+	font-family: Andale Mono, monospace;
+	background-color: #464B45;
+}
+.Inicio2
+{
+	font-size: 25px;
+	position: absolute;
+	top: 10px;
+	right: 550px;
+	color: #6BBF5B;
+}
+.Salida
+{
+	position: absolute;
+	top: 500px;
+	left: 30px;
+	width: 200px;
+	height: 50px;
+	background-color:#6BBF5B;
+	border-radius: 10px;
+	border:5px solid black;
+	padding: 10px 5px 5px 5px;
+}
+.Enlace
+{
+	font-size: 20px;
+	color: black;
+	text-decoration: none;
+}
+.Salida:hover
+{
+	border:5px solid white;
+}
+.Enlace:hover
+{
+	color: white;
+}
+.T1
+{
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
+}
+.t1:hover
+{
+	border:5px solid white;
+}
+.t1
+{
+	position: absolute;
+	top: 300px;
+	left: 550px;
+	border-radius: 10px;
+	background-color:  #6BBF5B;
+	border: 5px solid black;
+	padding: 10px 5px 5px 5px;
+	width: 150px;
+}
+
