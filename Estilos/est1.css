@@ -1,0 +1,133 @@
+body
+{
+	font-family: cursive;
+	background-color: #FF5733;
+}
+.id
+{
+	position: absolute;
+	top: 20px;
+	left: 200px;
+	background-color: #DC8C42;
+	padding: 5px 5px 5px 5px;
+	border: 5px double black;
+	width: 800px;
+}
+.mi
+{
+	text-align: left;
+	text-decoration:none;
+	color: #0E6251;
+	font-size: 40px;
+}
+.re
+{
+	position: absolute;
+	top: 5px;
+	left: 700px;
+	text-decoration:none;
+	color: #2E86C1;
+	font-size: 40px;
+}
+.cuadro1
+{
+	position: absolute;
+	top: 750px;
+	left: 10px;
+	background-color: #DC8C42;
+	font size: 25px;
+	padding: 10px 5px 5px 5px;
+	border: 5px double black;
+	width: 500px;
+}
+.cuadro1:hover
+{
+	color: white;
+}
+.img1
+{
+	position: relative;
+	top: 700px;
+	left: 700px;
+	width: 500px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px 5px black;
+}
+.capa
+{
+	position: absolute;
+	top: 800px;
+	left: 664px;
+	text-align: center;
+	font-size: 25px;
+	color: #0E6251;
+	background-color: black;
+	width: 500px;
+	opacity: 0;
+	border-radius: 10px;
+}
+.capa:hover
+{
+	opacity: 5;
+}
+.flecha
+{
+	position: absolute;
+	top: 800px;
+	left: 550px;
+	width: 10px;
+}
+.img2
+{
+	width: 100px;
+}
+.semi1
+{
+	position: absolute;
+	top: 1700px;
+	right: 10px;
+	background-color: #DC8C42;
+	font size: 25px;
+	padding: 10px 5px 5px 5px;
+	border: 5px double black;
+	width: 200px;	
+}
+.semi2
+{
+	position: absolute;
+	top: 1700px;
+	left: 10px;
+	background-color: #DC8C42;
+	font size: 25px;
+	padding: 10px 5px 5px 5px;
+	border: 5px double black;
+	width: 250px;
+}
+.img3
+{
+	width: 400px;
+	position: absolute;
+	top: 1500px;
+	left:450px;
+}
+.gran
+{
+	position: absolute;
+	top: 1500px;
+	left: 450px;
+	width: 400px;
+	opacity: 0;
+}
+.gran:active
+{
+	opacity: 1;
+}
+.flecha1
+{
+	position: absolute;
+	top: 1700px;
+	left: 600px;
+	width: 10px;
+}
+
+
