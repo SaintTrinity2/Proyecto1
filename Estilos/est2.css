@@ -1,0 +1,44 @@
+body
+{
+	font-family: Andale Mono, monospace;
+	background-color: #464B45;
+}
+video
+{
+	position: absolute;
+	top:30px; 
+	left:300px;
+	border-radius: 20px;
+	width: 700px;
+	border:5px solid black;
+}
+img
+{
+	width: 700px;
+	border-radius: 20px;
+	border:5px solid black;
+}
+.desp1
+{
+	position: absolute;
+	top: 500px;
+	left: 300px;
+}
+.desp2
+{
+	position: absolute;
+	top: 1000px;
+	left: 300px;
+}
+.desp3
+{
+	position: absolute;
+	top: 1500px;
+	left: 300px;
+}
+.desp4
+{
+	position: absolute;
+	top: 2000px;
+	left: 300px;
+}
