@@ -1,0 +1,173 @@
+body
+{
+	font-family: Agency FB;
+	font-size: 20px;
+	background-color: #51BF61;
+}
+.zard1
+{
+	position: absolute;
+	top: 7px;
+	left: 200px;
+	width: 100px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px black;
+}
+.zord1
+{
+	font-size: 40px;
+	color: #10721E;
+	position: absolute;
+	top: 7px;
+	left: 450px;
+	text-shadow: 10px 5px 10px black;
+}
+.race
+{
+	position: absolute;
+	top: 1500px;
+	left: 300px;
+	width: 600px;
+	border-radius: 10px;
+	border: 10px black solid;
+}
+.dear
+{
+	position: absolute;
+	top: 1500px;
+	left: 400px;	
+	width: 400px;
+	background-color: black;
+	border-radius: 10px;
+	color: #2E795B;
+	opacity: 0;
+}
+.dear:hover
+{
+	opacity: 1;
+	padding: 10px 10px 10px;
+}
+.zardi2
+{
+	position: absolute;
+	top: 1700px;
+	left: 200px;
+	width: 300px;
+	border-radius: 10px;
+	border: 5px black solid;
+}
+.cuadro1
+{
+	background-color: #346B8E;
+	width: 300px;
+	height: 100px;
+	position: absolute;
+	top: 200px;
+	left: 1px;
+	border-radius: 10px;
+	border: 5px black solid;
+	font-size: 40px;
+	text-align: center;
+}
+.cuadro2
+{
+	background-color: #346B8E;
+	width: 300px;
+	height: 100px;
+	position: absolute;
+	top: 200px;
+	left: 450px;
+	border-radius: 10px;
+	border: 5px black solid;
+	font-size: 40px;
+	text-align: center;
+}
+.cuadro3
+{
+	background-color: #346B8E;
+	width: 300px;
+	height: 100px;
+	position: absolute;
+	top: 200px;
+	left: 950px;
+	border-radius: 10px;
+	border: 5px black solid;
+	font-size: 40px;
+	text-align: center;
+}
+a
+{
+	color: black;
+}
+.text
+{
+	position: absolute;
+	top: 2500px;
+	left: 10px;
+	background-color: black;
+	color: #2E795B;
+	width: 350px;
+	height: 400px;
+	padding: 5px 5px 5px;
+	border-radius: 10px;
+	font-size: 35px;
+}
+.text1
+{
+	position: absolute;
+	top: 2535px;
+	left: 450px;
+	border-radius: 10px;
+	border: 5px black solid;
+	width: 350px;
+	height: 400px;
+}
+.free
+{
+	position: absolute;
+	top: 2535px;
+	left: 900px;
+	border-radius: 10px;
+	border: 5px black solid;
+	width: 350px;
+	height: 400px;
+	opacity: 0;
+}
+.free:hover
+{
+	opacity: 1;
+}
+.fin
+{
+	position: absolute;
+	top: 4000px;
+	left: 450px;
+	width: 300px;
+	background-color: black;
+	color: #10721E;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 30px;
+}
+.fin2
+{
+	position: absolute;
+	top: 3700px;
+	left: 450px;
+	width: 300px;
+	background-color: black;
+	color: #2E795B;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 70px;
+}
+.fin3
+{
+	position: absolute;
+	top: 3800px;
+	left: 450px;
+	width: 300px;
+	border-radius: 10px;
+	text-align: center;
+	border: 5px black solid;
+}
