@@ -1,0 +1,30 @@
+body
+{
+	font-family: Andale Mono, monospace;
+	background-color: #464B45;
+}
+.xd
+{
+	position: absolute;
+	top: 300px;
+	left: 600px;
+	border-radius: 10px;
+	background-color:  #6BBF5B;
+	border: 5px solid black;
+	padding: 10px 5px 5px 5px;
+	width: 150px;
+}
+.xd:hover
+{
+	border:5px solid white;
+}
+.vid
+{
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
+}
+.vid:hover
+{
+	color: white;
+}
